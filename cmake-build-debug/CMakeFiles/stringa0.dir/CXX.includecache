@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/elleven/Documents/3c/info/eserciziCPP/stringaEarray/stringa0.cpp
+iostream
+-
+cstdlib
+-
+iomanip
+-
+
