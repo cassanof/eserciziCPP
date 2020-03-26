@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/stringa0.dir/stringaEarray/stringa0.cpp.o"
-  "stringa0"
+  "CMakeFiles/stringa0.dir/stringaEarray/stringa0.cpp.obj"
+  "libstringa0.dll.a"
+  "stringa0.exe"
+  "stringa0.exe.manifest"
   "stringa0.pdb"
 )
 

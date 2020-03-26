@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/setwtabellarray.dir/setwtabellarray.cpp.o"
-  "setwtabellarray"
+  "CMakeFiles/setwtabellarray.dir/setwtabellarray.cpp.obj"
+  "libsetwtabellarray.dll.a"
+  "setwtabellarray.exe"
+  "setwtabellarray.exe.manifest"
   "setwtabellarray.pdb"
 )
 

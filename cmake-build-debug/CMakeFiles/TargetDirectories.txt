@@ -1,7 +1,7 @@
-/Users/elleven/Documents/3c/info/eserciziCPP/cmake-build-debug/CMakeFiles/stringa0.dir
-/Users/elleven/Documents/3c/info/eserciziCPP/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/elleven/Documents/3c/info/eserciziCPP/cmake-build-debug/CMakeFiles/fibonacciEfficiente.dir
-/Users/elleven/Documents/3c/info/eserciziCPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/elleven/Documents/3c/info/eserciziCPP/cmake-build-debug/CMakeFiles/arg1.dir
-/Users/elleven/Documents/3c/info/eserciziCPP/cmake-build-debug/CMakeFiles/base_n.dir
-/Users/elleven/Documents/3c/info/eserciziCPP/cmake-build-debug/CMakeFiles/setwtabellarray.dir
+C:/Users/gladi/Documents/cpp/eserciziCPP/cmake-build-debug/CMakeFiles/setwtabellarray.dir
+C:/Users/gladi/Documents/cpp/eserciziCPP/cmake-build-debug/CMakeFiles/fibonacciEfficiente.dir
+C:/Users/gladi/Documents/cpp/eserciziCPP/cmake-build-debug/CMakeFiles/stringa0.dir
+C:/Users/gladi/Documents/cpp/eserciziCPP/cmake-build-debug/CMakeFiles/base_n.dir
+C:/Users/gladi/Documents/cpp/eserciziCPP/cmake-build-debug/CMakeFiles/arg1.dir
+C:/Users/gladi/Documents/cpp/eserciziCPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gladi/Documents/cpp/eserciziCPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir

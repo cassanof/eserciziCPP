@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/elleven/Documents/3c/info/eserciziCPP/base_n.cpp" "/Users/elleven/Documents/3c/info/eserciziCPP/cmake-build-debug/CMakeFiles/base_n.dir/base_n.cpp.o"
+  "C:/Users/gladi/Documents/cpp/eserciziCPP/base_n.cpp" "C:/Users/gladi/Documents/cpp/eserciziCPP/cmake-build-debug/CMakeFiles/base_n.dir/base_n.cpp.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
